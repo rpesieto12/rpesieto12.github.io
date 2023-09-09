@@ -2174,8 +2174,8 @@ input, select, textarea {
 
 	#banner {
 		background: #CCE8F4 url("../../images/pic01.jpg");
-		background-position: left center;
-		background-size: contains;
+		background-position: center center;
+		background-size: auto 100%;
 		background-repeat: no-repeat;
 		text-align: center;
 		position: relative;
@@ -2186,7 +2186,7 @@ input, select, textarea {
 		#banner header {
 			background-color: rgba(34, 30, 31, 0.98);
 			display: inline-block;
-			padding: 2.5em 5em;
+			padding: 2em 2em;
 			border-radius: 5px;
 		}
 
