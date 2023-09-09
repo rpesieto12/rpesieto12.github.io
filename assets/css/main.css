@@ -2174,7 +2174,7 @@ input, select, textarea {
 
 	#banner {
 		background: #CCE8F4 url("../../images/pic01.jpg");
-		background-position: center center;
+		background-position: left center;
 		background-size: cover;
 		background-repeat: no-repeat;
 		text-align: center;
